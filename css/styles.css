@@ -1,3 +1,16 @@
 @charset "utf-8";
 /* CSS Document */
+.my-class {
+	color:#3C2607;
+	background-color: #F7CD6E;
+	text-align: center;
+	font-family: Verdana, "sans-serif";
+	font-size: 13px;
+}
 
+#my-id {
+	color:#5C0708;
+	background-color: antiquewhite;
+	border:medium #5E0F10;
+	text-align: center;
+}
