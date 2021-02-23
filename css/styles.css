@@ -1,5 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
 .my-class {
 	color:#3C2607;
 	background-color: #F7CD6E;
